@@ -4,6 +4,7 @@
 Biće potrebno da simulirate grupnu fazu i eliminacionu fazu turnira.
 - Zadatak je potrebno uraditi koristeći isključivo JavaScript / C#, bez upotrebe eksternih paketa.
 - Zadatak se pokreće komandom: `npm start` / `dotnet run` i zatim u std output-u prikazuje simulaciju turnira.
+- Ukoliko zadatak radiš u JavaScript-u koristi `node v20.17.0`, a ukoliko ga radiš u C#-u koristi `.NET 8`.
 
 Opis zahteva dat je u daljem tekstu.
 
